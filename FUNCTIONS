@@ -1,0 +1,21 @@
+#Arithmetic Operators
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+
+
+#Sqaure Root
+n=int(input())
+n=n**2
+print(n)
+
+
+#Cube Root
+a=int(input())
+a=a**3
+print(a)
